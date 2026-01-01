@@ -1,5 +1,4 @@
-# Research Notes
+# Drug Discovery Notes
 
-Short, clear explanations of concepts in
-computational biophysics, machine learning,
-and drug discovery.
+Notes related to virtual screening, ADMET analysis,
+and decision-making in early-stage drug discovery.
