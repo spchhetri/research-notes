@@ -1,2 +1,4 @@
-# research-notes
-Personal research notes on computational biophysics, machine learning, and drug discovery.
+# Research Notes
+
+This repository contains my personal research notes on computational biophysics,
+machine learning, and molecular drug discovery.
